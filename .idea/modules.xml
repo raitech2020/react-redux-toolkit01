@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/react-redux-toolkit01.iml" filepath="$PROJECT_DIR$/.idea/react-redux-toolkit01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GitHub/redux-toolkit-tutorial-complete/.idea/redux-toolkit-tutorial-complete.iml" filepath="$PROJECT_DIR$/../GitHub/redux-toolkit-tutorial-complete/.idea/redux-toolkit-tutorial-complete.iml" />
+    </modules>
+  </component>
+</project>
